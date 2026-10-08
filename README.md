@@ -1,3 +1,7 @@
+# STILL ON DEVELOPMENT!!!👩🏿‍💻👩🏿‍💻👩🏿‍💻👩🏿‍💻👩🏿‍💻
+
+
+
 # Auth Service
 
 A self-contained **OAuth2 + JWT identity service** with **role-based access control**,
