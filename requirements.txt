@@ -1,0 +1,5 @@
+Flask>=3.0
+PyJWT>=2.7
+cryptography>=42.0
+# Optional, for the demo script only:
+requests>=2.31
